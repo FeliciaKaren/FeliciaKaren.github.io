@@ -1,32 +1,96 @@
 .atap {
     height: 12vh;
     width: 100vw;
-    background-color: paleturquoise;
+    color: rgba(130, 39, 39, 0.633);
+    background-color: burlywood;
     display: flex;
-    margin-bottom: 1%;
     padding-left: 1%;
+    text-align: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    align-items: center;
 }
 
 .badan {
-    height: 28vh;
-    width: 100vw;
-    background-color: paleturquoise;
-    border: 1px solid black;
+    height: 30vh;
+    width: 30vw;
+    background-color: burlywood;
     display: flex;
-    margin-bottom: 1%;
-    padding-left: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 120%;
+}
+
+.badan2 {
+    height: 20vh;
+    width: 30vw;
+    background-color: burlywood;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 120%;
+}
+
+.badan3 {
+    height: 20vh;
+    width: 30vw;
+    background-color: burlywood;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 120%;
+}
+
+.badan4 {
+    height: 30vh;
+    width: 30vw;
+    background-color: burlywood;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+    font-size: 120%;
 }
 
 .avatar {
-    width: 10vw;
+    width: 30vw;
+    height: 30vh;
     border-radius: 100rem;
-    margin-left: 2%;
+    margin-left: 1%;
+    margin-right: 2%;
+    align-items: center;
+    border: 5px solid snow;
 }
-
 .header {
     height: 10vh;
     width: 100vw;
     border-radius: 2%;
     background-color: aquamarine;
     margin-top: 1vh;
+}
+
+.container {
+    height: 40vh;
+    width: 100vw;
+    background-color: olive;
+    display: flex;
+    padding-left: 3%;
+    padding-right: 2%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    border-radius: 10rem;
+    align-items: center;
+    text-align: justify;
+}
+
+.containerkanan {
+    display: flex;
+    width: 70vw;
+    height: 40vh;
+    background-color: blanchedalmond;
+    padding: 20px;
+}
+
+.hihi {
+    background-color: maroon;
+    color: aliceblue;
 }
