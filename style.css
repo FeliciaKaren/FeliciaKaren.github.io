@@ -7,8 +7,15 @@
     padding-left: 1%;
 }
 
-
-
+.badan {
+    height: 28vh;
+    width: 100vw;
+    background-color: paleturquoise;
+    border: 1px solid black;
+    display: flex;
+    margin-bottom: 1%;
+    padding-left: 1%;
+}
 
 .avatar {
     width: 10vw;
