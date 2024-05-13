@@ -1,0 +1,25 @@
+.atap {
+    height: 12vh;
+    width: 100vw;
+    background-color: paleturquoise;
+    display: flex;
+    margin-bottom: 1%;
+    padding-left: 1%;
+}
+
+
+
+
+.avatar {
+    width: 10vw;
+    border-radius: 100rem;
+    margin-left: 2%;
+}
+
+.header {
+    height: 10vh;
+    width: 100vw;
+    border-radius: 2%;
+    background-color: aquamarine;
+    margin-top: 1vh;
+}
